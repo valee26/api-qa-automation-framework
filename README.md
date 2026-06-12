@@ -5,7 +5,7 @@ Framework de pruebas automatizadas para validación de APIs REST, desarrollado c
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 | Herramienta | Uso |
 
@@ -22,7 +22,7 @@ Framework de pruebas automatizadas para validación de APIs REST, desarrollado c
 Validar el comportamiento de endpoints REST públicos (JSONPlaceholder) mediante la automatización de casos de prueba que cubren flujos exitosos y escenarios de error, asegurando la integridad de respuestas JSON, códigos de estado HTTP y estructura de datos.
 
 
-## 📁 Estructura del Repositorio
+##  Estructura del Repositorio
 
 ```
 api-qa-automation-framework/
@@ -34,7 +34,7 @@ api-qa-automation-framework/
 
 ---
 
-## ✅ Casos de Prueba Cubiertos
+##  Casos de Prueba Cubiertos
 
 ### Suite Python (`test_api_reqres.py`)
 
@@ -50,7 +50,7 @@ api-qa-automation-framework/
 
 ---
 
-## ▶️ Cómo Ejecutar las Pruebas
+##  Cómo Ejecutar las Pruebas
 
 ### Prerrequisitos
 
